@@ -1,4 +1,4 @@
-# node_embedding
+# node-embedding
 Logs of visited/tried/read node embedding techniques
 
 ## On Heterogenous graph data
